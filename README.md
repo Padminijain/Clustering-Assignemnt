@@ -8,6 +8,6 @@ This problem is unsupervised learning problem. We would be using clustering tech
 clustering countries into different clusters based on different socioeconomic and health factors.
 
 ## Conclusion
-• There list is being divided into 3 clusters based on socio-economic and health factors.
+• The list is being divided into 3 clusters based on socio-economic and health factors.
 • Income , GDP and child-mortality are the main factors behind this.
 • Countries which have low income, low gdp and high child mortality are the countries which requires the help first.
